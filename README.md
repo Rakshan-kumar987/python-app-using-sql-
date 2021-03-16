@@ -1,0 +1,2 @@
+# python-app-using-sql-
+python app using sql A. What is the average credit score of females and males in France? B. What is the average credit score of people in the age brackets 20-30,31-40,41-50? C. What is the correlation between credit score and estimated salary?   D. Develop a statistical model to explain and establish a mathematical relationship between credit score (dependent) and gender, age, estimate salary.
